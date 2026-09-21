@@ -1,6 +1,6 @@
 Nick Rogalla — Portfolio
 Rice Lake, Wisconsin
-Email: biggsall1994@gmail.com
+Email: biggalla1994@gmail.com
 GitHub: github.com/Droidxxx94
 ⭐ About Me
 I’m Nick Rogalla, a data and operations professional with hands-on experience in Power BI, Excel automation, SQL, and inventory management systems. I build practical, real-world projects that solve business problems — from dashboards to databases to workflow tools.
@@ -103,5 +103,5 @@ Inventory Management Certificate
 Eagle Scout — Boy Scouts of America (2012)
 
 ⭐ Contact
-Email: biggsall1994@gmail.com
+Email: biggalla1994@gmail.com
 GitHub: github.com/Droidxxx94
