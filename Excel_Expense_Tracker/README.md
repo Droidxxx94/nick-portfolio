@@ -38,7 +38,7 @@ Pivot-style analysis
 📈 Visuals
 Below are the visuals from ExcelProject_v1.0.0.xlsx.
 ### Expense Breakdown by Category
-![Expense Breakdown](Expense_Breakdown_by_Category.png)
+![Expense Breakdown](Category.png)
 
 ### Total Expense Distribution (Pie Chart)
 ![Pie Chart](Total.png)
