@@ -98,7 +98,8 @@ Resume Folder
 
 ⭐ Certifications
 Inventory Management Certificate
-Nicholas James Rogalla (1).pdf
+[View Certificate (PDF)](https://raw.githubusercontent.com/Droidxxx94/nick-portfolio/main/Nicholas%20James%20Rogalla%20(1).pdf)
+
 
 ⭐ Awards
 Eagle Scout — Boy Scouts of America (2012)
