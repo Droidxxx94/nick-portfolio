@@ -22,11 +22,31 @@ It includes interactive slicers, KPI cards, trend charts, and a branded header b
 - Dashboard branding  
 
 ## 📁 Files Included
-- **SalesDashboard_v1.0.0.pbix** — Full Power BI dashboard  
-- **sales_data.csv** — Source dataset  
+- **SalesDashboard_v1.0.0.pbix** — Full Power BI dashboard    
 - **Dashboard Screenshot** — Visual preview  
 
-## 📈 Visuals
-(Add your screenshot here once uploaded)
+## 📸 Dashboard Visuals
+
+### Full Dashboard
+![Full Dashboard](PowerBI_Visuals/Dashboard_Full.png)
+
+### KPI Cards
+![KPI Cards](PowerBI_Visuals/KPI_Cards.png)
+
+### Sales vs Profit Chart
+![Sales vs Profit](PowerBI_Visuals/Sales_Profit_Chart.png)
+
+### Profit Trend Chart
+![Profit Trend](PowerBI_Visuals/Profit_Trend.png)
+
+### Product Sales & Profit Table
+![Product Table](PowerBI_Visuals/Product_Table.png)
+
+### Slicers
+![Slicers](PowerBI_Visuals/Slicers.png)
+
+### Category Panel
+![Top Category-Total Quantity](PowerBI_Visuals/Category_Panel.png)
+
 
 
