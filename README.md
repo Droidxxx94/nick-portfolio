@@ -95,6 +95,9 @@ Inventory Database
 You can find my full resume here:
 
 Resume Folder
+## 📄 Resume
+[Download My Resume](Resume/Nick_Rogalla_Resume.docx)
+
 
 ⭐ Certifications
 Inventory Management Certificate
