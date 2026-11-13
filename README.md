@@ -1,5 +1,5 @@
 Nick Rogalla — Portfolio
-Rice Lake, Wisconsin
+Wisconsin
 Email: biggalla1994@gmail.com
 GitHub: github.com/Droidxxx94
 ⭐ About Me
